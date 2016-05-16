@@ -9,8 +9,7 @@
 title: Mi Fans Indonesia
 author: admin
 email: admin@mifans.web.id
-description: > # this means to ignore newlines until "baseurl:"
-  Hmmmmmm
+description: Sumber kode terbuka milik Mi Forum Fans Indonesia
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://mifansindonesia.github.cio" # the base hostname & protocol for your site
 permalink: /:categories/:title.html
