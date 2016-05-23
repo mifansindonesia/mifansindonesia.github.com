@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Xiaomi Mi 1 Spesifikasi 
 permalink: /devices/mi/mi1
 ---
